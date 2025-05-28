@@ -78,5 +78,5 @@ Accede a la aplicación desde: `http://localhost` (gracias al recurso Ingress)
 
 ## Autor
 
-Desarrollado por **Jhonatan Alva, Jefferson Molina, Guillermo Guitierrez, Luis Bran**  
+Desarrollado por **Jhonatan Alvarado, Jefferson Molina, Guillermo Guitierrez, Luis Bran**  
 Proyecto de Ingeniería de Software - 2025  
