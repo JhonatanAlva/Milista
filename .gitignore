@@ -25,7 +25,7 @@ docker-compose.override.yml
 # Base de datos
 db/*.sql
 
-# Sistema
+# Archivos del sistema
 .DS_Store
 Thumbs.db
 
@@ -34,10 +34,10 @@ Thumbs.db
 *.swp
 *.tmp
 
-# Editor configs
+# Configuraciones de editores
 .vscode/
 .idea/
 *.code-workspace
 
 # Kubernetes secrets
-echo "k8s/backend-secret.yaml" >> .gitignore
+k8s/backend-secret.yaml
