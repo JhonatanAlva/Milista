@@ -27,20 +27,7 @@ milista/
 ├── db/                  # Scripts de base de datos
 ├── docker-compose.yml   # Definición local de servicios
 └── .gitignore
-```
 
----
-
-## Despliegue Local con Docker
-
-
-# Inicia todos los servicios en local
-docker-compose up -d
-```
-
-Accede desde: [http://localhost:5173](http://localhost:5173)
-
----
 
 ## Despliegue en Kubernetes (Minikube)
 
