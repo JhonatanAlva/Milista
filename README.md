@@ -31,6 +31,8 @@ milista/
 
 ## Despliegue en Kubernetes (Minikube)
 
+##Antes de iniciar cambiar los secretos en el archivo backend-secret.yaml
+
 ### 1. Inicia Minikube
 
 minikube start
